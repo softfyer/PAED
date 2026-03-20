@@ -29,6 +29,7 @@ export const Header = ({ onLogout }: HeaderProps) => {
                   src="https://picsum.photos/seed/teacher/100/100" 
                   alt="Avatar" 
                   fill
+                  sizes="40px"
                   className="object-cover"
                   referrerPolicy="no-referrer"
                 />
